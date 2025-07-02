@@ -50,6 +50,9 @@ pip install xlwings
 
 pip show xlwings
 
+pip install xlwings mStock-TradingApi-A pyOpenSSL service_identity
+
+
 
 
 ------------
