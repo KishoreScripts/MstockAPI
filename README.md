@@ -36,4 +36,17 @@ pip install -r requirements.txt
 Thats it we have now our access token in Session Data Folder
 ------------
 
+Run Also Below Packages Further for Option Chain:
+
+pip install pyOpenSSL
+
+python -m pip install pyOpenSSL
+
+------------
+
+
+
+
+
+
 
