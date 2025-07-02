@@ -21,3 +21,16 @@ C:\Users\ganta>python login.py
 🔓 Token saved successfully to session_data/token.json
 
 
+Install the python and official SDK
+
+pip install mStock-TradingApi-A
+
+- Prompts you for your username, password, and API key
+- Triggers OTP and asks you to enter it
+- Uses the official tradingapi_a SDK from GitHub
+- Generates the access token
+- Saves it in a JSON file for later us
+
+ It’ll save the access token in session_data/token.json
+
+Run in CMD> Python login.py
