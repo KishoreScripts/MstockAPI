@@ -42,6 +42,16 @@ pip install pyOpenSSL
 
 python -m pip install pyOpenSSL
 
+pip install service_identity
+
+python -m pip install service_identity
+
+pip install xlwings
+
+pip show xlwings
+
+
+
 ------------
 
 
